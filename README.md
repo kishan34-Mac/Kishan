@@ -69,7 +69,7 @@ I create apps that feel **fast, immersive, and engineered for real-world perform
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34-mac&layout=compact&theme=tokyonight&title_color=ff00ff" width="45%" />
 
 </div>
-## 🔥 GitHub Contribution Streak
+**## 🔥 GitHub Contribution Streak**
 
 <p align="center">
   <img 
@@ -99,7 +99,7 @@ I create apps that feel **fast, immersive, and engineered for real-world perform
 
 ## 💫 Fun Fact
 
-> *I don’t just code apps — I create neon-powered digital experiences.*
+> * It’s not hard,It just New !*
 
 ---
 
