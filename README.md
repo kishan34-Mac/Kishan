@@ -69,6 +69,15 @@ I create apps that feel **fast, immersive, and engineered for real-world perform
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34-mac&layout=compact&theme=tokyonight&title_color=ff00ff" width="45%" />
 
 </div>
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=kishan34-Mac&theme=black-ice&hide_border=true&stroke=orange&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff8c00&sideLabels=ffffff&dates=aaaaaa" 
+    alt="GitHub Streak Stats" 
+  />
+</p>
+
 
 ---
 
