@@ -61,31 +61,29 @@ My development style blends **cyberpunk visual energy** with **high-performance 
 ---
 
 ## 🔥 GitHub Stats — *Systems Online*
-## 🔥 GitHub Stats — Systems Online
-
 <div align="center">
 
 <img 
-  src="https://github-readme-stats-github-mirror.vercel.app/api?username=kishan34-mac&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=kishan34-Mac&show_icons=true&theme=tokyonight" 
   width="55%" 
 />
 
 <br/>
 
 <img 
-  src="https://github-readme-stats-github-mirror.vercel.app/api/top-langs/?username=kishan34-mac&layout=compact&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34-Mac&layout=compact&theme=tokyonight" 
   width="45%" 
 />
 
 </div>
+
 
 ---
 
 ## 🔥 GitHub Contribution Streak — *Neon Mode*
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=kishan34-mac&theme=tokyonight-duo&hide_border=true&ring=00eaff&fire=ff00ff&currStreakLabel=00eaff&sideLabels=ffffff" 
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com?user=kishan34-Mac&theme=tokyonight-duo&hide_border=true" 
   />
 </div>
 
