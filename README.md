@@ -8,8 +8,8 @@
 
 ### ⚡ Cyberpunk Portfolio • Neon Mode Online  
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://kishan-kishan34-cpus-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-8B00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsmith80769@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-8B00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -56,22 +56,23 @@ My development style blends **cyberpunk visual energy** with **high-performance 
 ---
 
 ## 💠 Cyberpunk Portfolio  
-👉 **https://kishan-kishan34-cpus-projects.vercel.app/**
+👉 [**https://kishan-kishan34-cpus-projects.vercel.app/**](https://kishan-kishan34-cpus-projects.vercel.app/)
 
 ---
 
 ## 🔥 GitHub Stats — *Systems Online*
 <div align="center">
 
+<!-- REPLACED kishan34-Mac WITH kishan34 BELOW -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=kishan34-Mac&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=kishan34&show_icons=true&theme=tokyonight" 
   width="55%" 
 />
 
 <br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34-Mac&layout=compact&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34&layout=compact&theme=tokyonight" 
   width="45%" 
 />
 
@@ -82,8 +83,9 @@ My development style blends **cyberpunk visual energy** with **high-performance 
 
 ## 🔥 GitHub Contribution Streak — *Neon Mode*
 <div align="center">
+  <!-- REPLACED kishan34-Mac WITH kishan34 BELOW -->
   <img 
-    src="https://streak-stats.demolab.com?user=kishan34-Mac&theme=tokyonight-duo&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=kishan34&theme=tokyonight-duo&hide_border=true" 
   />
 </div>
 
@@ -100,8 +102,8 @@ My development style blends **cyberpunk visual energy** with **high-performance 
 
 ## 📡 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
-- **Email:** jsmith80769@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)  
+- **Email:** [your-email@example.com](mailto:your-email@example.com)  
 
 ---
 
